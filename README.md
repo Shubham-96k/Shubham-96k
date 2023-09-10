@@ -1,5 +1,5 @@
 ![logo](https://github.com/Shubham-96k/Shubham-96k/blob/main/Github.png)
-<h1 align="center">Hi 👋, I'm Shubham Shilvane</h1>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
